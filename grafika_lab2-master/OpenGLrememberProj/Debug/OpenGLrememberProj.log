@@ -1,0 +1,7 @@
+﻿  Render.cpp
+C:\Users\taiwa\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(60,28): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\taiwa\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(60,32): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\taiwa\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(156,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\taiwa\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(156,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\taiwa\Downloads\grafika_lab2-master\OpenGLrememberProj\Render.cpp(156,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\taiwa\Downloads\grafika_lab2-master\Debug\OpenGLrememberProj.exe
